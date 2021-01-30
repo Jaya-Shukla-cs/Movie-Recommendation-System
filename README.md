@@ -4,4 +4,4 @@
 
 ###### **Generally, there are two main approaches that are widely used for recommender systems. One is content-based filtering, where we try to profile the user’s interests using information collected, and recommend items based on that profile. And the other is collaborative filtering, where we try to group similar users together and use information about the group to make recommendations to the user.**
 
-## **Therefore, the main motive behind this system is to simply design and implement a movie recommendation system by using the item-based collaborative filtering system and understand the working or designing behind the system.**
+## Therefore, the main motive behind this system is to simply design and implement a movie recommendation system by using the item-based collaborative filtering system and understand the working or designing behind the system.
